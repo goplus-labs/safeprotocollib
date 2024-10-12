@@ -1,6 +1,6 @@
-# Web3 Safe Protocol Library
+# Safe Protocol Library
 
-Web3 Protocol Security Library is an open-source project aimed at providing a comprehensive list of mainstream Web3 protocols and their associated smart contract addresses. The primary goal of this project is to help developers and users identify secure on-chain contract entities, thereby enhancing overall security and protecting against potential phishing attacks.
+Safe Protocol Library is an open-source project aimed at providing a comprehensive list of mainstream Web3 protocols and their associated smart contract addresses. The primary goal of this project is to help developers and users identify secure on-chain contract entities, thereby enhancing overall security and protecting against potential phishing attacks.
 
 ## Features
 
@@ -13,7 +13,7 @@ Web3 Protocol Security Library is an open-source project aimed at providing a co
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/web3-protocol-security-library.git
+   git clone https://github.com/cryptousersecurity/safeprotocollib.git
    ```
 
 2. Install dependencies:
